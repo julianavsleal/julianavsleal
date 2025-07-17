@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Sejam Bem Vindo(a)!</h2>
+<h2 align="center">Olá! Seja Bem Vindo(a)!</h2>
 
 ###
 
