@@ -1,5 +1,7 @@
 <h1 align="center">👋 Olá! Seja Bem-vindo(a)!</h1>
 
+<br/>
+
 Me chamo **Juliana Vieira**, sou de São Paulo. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Universidade São Judas Tadeu e sou formada como **Desenvolvedora Fullstack JavaScript Júnior** pela Generation Brasil.
 
 <br/>
@@ -21,7 +23,7 @@ Me chamo **Juliana Vieira**, sou de São Paulo. Atualmente, estou cursando **An�
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"  title="JavaScript" alt="javascript logo"  />
@@ -58,14 +60,14 @@ Me chamo **Juliana Vieira**, sou de São Paulo. Atualmente, estou cursando **An�
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=julianavsleal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=julianavsleal&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianavsleal&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianavsleal&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
