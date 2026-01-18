@@ -7,8 +7,9 @@ Me chamo **Juliana Vieira**, sou de S√£o Paulo. Atualmente, estou cursando **An√
 <br/>
 
 <div align="center">
-  <img height="172" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdldWNtOWV4dmV2dGMyNG01N2tvdTYydmRlZmV3NjZraTA5cTJ3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZGjcyagR37DTtvhOUP/giphy.gif"                 style="margin-left: 15; vertical-align: middle;" />
+  <img height="172" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF0czY1b25nNmgxdWFmcnV6ZDhzaWlvODZuMnIzYXpnOWJoMGE0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dXkewidie4SLwZY87T/giphy.gif"                 style="margin-left: 15; vertical-align: middle;" />
 </div>
+
 
 <br/>
 
@@ -60,14 +61,14 @@ Me chamo **Juliana Vieira**, sou de S√£o Paulo. Atualmente, estou cursando **An√
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=julianavsleal&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=julianavsleal&show_icons=true&theme=darcula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianavsleal&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianavsleal&theme=darcula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
